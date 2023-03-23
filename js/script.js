@@ -14,7 +14,7 @@ scrollSuave.init();
 
 const tabnav = new TabNav(
   "[data-tab='menu'] li",
-  "[data-tab='content'] section"
+  "[data-tab='content'] section",
 );
 tabnav.init();
 
